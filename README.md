@@ -14,11 +14,11 @@
 📈 Working on improving my GitHub profile & real-world projects<br>
 
 <h3><b>🛠️ Tech Stack</b></h3>
-💻 Languages
+💻 Languages<br>
    Java<br>
    JavaScript<br>
    HTML<br>
-   CSS<br>
+   CSS
 
 ⚛️ Frontend<br>
     React.js<br>
