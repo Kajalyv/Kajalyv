@@ -1,4 +1,4 @@
- <h2><b>🌸 Hi, I'm Kajal Yadav</b></h2><hr>
+ <h3><b>🌸 Hi, I'm Kajal Yadav</b></h3><hr>
 💻 Beginner Full Stack Developer<br>
 🚀 Preparing for GSoC 2026<br>
 📚 DSA in Java | React | Node.js | MongoDB<br>
