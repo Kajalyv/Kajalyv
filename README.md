@@ -21,12 +21,12 @@
    CSS<br>
 
 ⚛️ Frontend
-    React.js<br>
+    React.js
     React Router<br>
     Context API
 
 🖥️ Backend
-Node.js<br>
+Node.js
 Express.js
 
 🗄️ Database
