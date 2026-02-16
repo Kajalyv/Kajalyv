@@ -1,4 +1,4 @@
-<h3><b>🌸 Hi, I'm Kajal Yadav</b></h3><hr>
+                                       <h2><b>🌸 Hi, I'm Kajal Yadav</b></h2><hr>
 
 💻 Beginner Full Stack Developer<br>
 🚀 Preparing for GSoC 2026<br>
