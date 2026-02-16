@@ -1,14 +1,14 @@
-🌸 Hi, I'm Kajal Yadav
+🌸 <b>Hi, I'm Kajal Yadav</b>
 
-💻 Beginner Full Stack Developer
-🚀 Preparing for GSoC 2026
-📚 DSA in Java | React | Node.js | MongoDB
-🎯 Goal: Contribute to Open Source & Build Scalable Web Apps
+💻 Beginner Full Stack Developer<br>
+🚀 Preparing for GSoC 2026<br>
+📚 DSA in Java | React | Node.js | MongoDB<br>
+🎯 Goal: Contribute to Open Source & Build Scalable Web Apps<br>
 
 
-<br>👩‍💻 About Me</br>
+👩‍💻<b>About Me</b>
 
-🌱 Currently improving Data Structures & Algorithms in Java
-🔨 Built an E-commerce Full Stack Application
-💡 Interested in Open Source Contributions
-📈 Working on improving my GitHub profile & real-world projects
+🌱 Currently improving Data Structures & Algorithms in Java<br>
+🔨 Built an E-commerce Full Stack Application<br>
+💡 Interested in Open Source Contributions<br>
+📈 Working on improving my GitHub profile & real-world projects<br>
