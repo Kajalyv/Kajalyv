@@ -14,7 +14,7 @@
 📈 Working on improving my GitHub profile & real-world projects<br>
 
 <h3><b>🛠️ Tech Stack</b></h3>
-💻 Languages<br>
+💻 Languages
    Java<br>
    JavaScript<br>
    HTML<br>
