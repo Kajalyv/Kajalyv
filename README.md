@@ -18,8 +18,7 @@
    Java<br>
    JavaScript<br>
    HTML<br>
-   CSS
-
+   CSS<br>
 
 ⚛️ Frontend<br>
     React.js<br>
