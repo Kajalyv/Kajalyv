@@ -20,27 +20,27 @@ JavaScript<br>
 HTML<br>
 CSS<br>
 
-<h3><b>⚛️ Frontend</b></h3><br>
+<h3><b>⚛️ Frontend</b></h3>
 React.js<br>
 React Router<br>
-Context API<br>
+Context API
 
-🖥️ Backend<br>
+<h3><b>🖥️ Backend<br></b></h3>
 Node.js<br>
-Express.js<br>
+Express.js
 
-🗄️ Database<br>
-MongoDB<br>
+<h3><b>🗄️ Database></b></h3>
+MongoDB
 
-🚀 Projects<br>
-🛒 E-Commerce Web App
+<h3><b>🚀 Projects<br></b></h3>
 
-Full Stack MERN Application
-Authentication & Cart System
-REST APIs using Express
+🛒 E-Commerce Web App <br>
+Full Stack MERN Application<br>
+Authentication & Cart System<br>
+REST APIs using Express<br>
 MongoDB Database
 
-📚 Currently Learning
-Advanced DSA (Recursion, Backtracking, Bit Manipulation)
-System Design Basics
+<h3><b>📚 Currently Learning</b></h3>
+Advanced DSA (Recursion, Backtracking, Bit Manipulation)<br>
+System Design Basics<br>
 Open Source Contribution (GSoC preparation)
