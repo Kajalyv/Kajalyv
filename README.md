@@ -20,7 +20,7 @@
    HTML<br>
    CSS<br>
 
-<br>⚛️ Frontend
+<br>⚛️ Frontend<br>
     React.js<br>
     React Router<br>
     Context API<br>
