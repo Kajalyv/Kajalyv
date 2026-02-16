@@ -13,17 +13,17 @@
 💡 Interested in Open Source Contributions<br>
 📈 Working on improving my GitHub profile & real-world projects<br>
 
-<h3><b>🛠️ Tech Stack</b></h3><br>
+<h3><b>🛠️ Tech Stack</b></h3>
 💻 Languages<br>
-Java<br>
-JavaScript<br>
-HTML<br>
-CSS<br>
+   Java<br>
+   JavaScript<br>
+   HTML<br>
+   CSS<br>
 
 <h3><b>⚛️ Frontend</b></h3>
-React.js<br>
-React Router<br>
-Context API
+    React.js<br>
+    React Router<br>
+    Context API
 
 <h3><b>🖥️ Backend<br></b></h3>
 Node.js<br>
