@@ -23,14 +23,14 @@
 ⚛️ Frontend
     React.js<br>
     React Router<br>
-    Context API
+    Context API<br>
 
 🖥️ Backend
 Node.js<br>
-Express.js
+Express.js<br>
 
 🗄️ Database
-MongoDB
+MongoDB<br>
 
 <h3><b>🚀 Projects</b></h3>
 
