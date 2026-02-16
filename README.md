@@ -46,5 +46,5 @@ System Design Basics<br>
 Open Source Contribution (GSoC preparation)
 
 <h3><b>🌐 Connect With Me</b></h3>
-LinkedIn: (Add link)<br>
-Email: (Add email)<br>
+LinkedIn: https://www.linkedin.com/in/kajal-yadav-875773288/<br>
+Email: kajalyv6743@gmail.com<br>
