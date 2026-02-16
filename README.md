@@ -1,4 +1,6 @@
- <h3><b>🌸 Hi, I'm Kajal Yadav</b></h3><hr>
+
+ <h1 align="center">Hi 🌸, I'm Kajal Yadav</h1>
+<h3 align="center">Full Stack Developer | GSoC 2026 Aspirant</h3><hr>
 💻 Beginner Full Stack Developer<br>
 🚀 Preparing for GSoC 2026<br>
 📚 DSA in Java | React | Node.js | MongoDB<br>
