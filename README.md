@@ -20,19 +20,19 @@
    HTML<br>
    CSS<br>
 
-<h3><b>⚛️ Frontend</b></h3>
+⚛️ Frontend
     React.js<br>
     React Router<br>
     Context API
 
-<h3><b>🖥️ Backend<br></b></h3>
+🖥️ Backend
 Node.js<br>
 Express.js
 
-<h3><b>🗄️ Database></b></h3>
+🗄️ Database
 MongoDB
 
-<h3><b>🚀 Projects<br></b></h3>
+<h3><b>🚀 Projects</b></h3>
 
 🛒 E-Commerce Web App <br>
 Full Stack MERN Application<br>
