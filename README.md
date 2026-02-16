@@ -1,8 +1,7 @@
 
  <h1 align="center">Hi 🌸, I'm Kajal Yadav</h1>
-<h3 align="center">Full Stack Developer | GSoC 2026 Aspirant</h3><hr>
-💻 Beginner Full Stack Developer<br>
-🚀 Preparing for GSoC 2026<br>
+<h3 align="center">💻 Full Stack Developer | GSoC 2026 Aspirant</h3><hr>
+
 📚 DSA in Java | React | Node.js | MongoDB<br>
 🎯 Goal: Contribute to Open Source & Build Scalable Web Apps<br>
 
