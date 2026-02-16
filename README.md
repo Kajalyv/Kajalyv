@@ -20,16 +20,16 @@
    HTML<br>
    CSS<br>
 
-⚛️ Frontend
+⚛️ Frontend<br>
     React.js<br>
     React Router<br>
     Context API<br>
 
-🖥️ Backend
+🖥️ Backend<br>
 Node.js<br>
 Express.js<br>
 
-🗄️ Database
+🗄️ Database<br>
 MongoDB<br>
 
 <h3><b>🚀 Projects</b></h3>
