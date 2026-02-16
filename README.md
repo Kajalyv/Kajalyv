@@ -44,3 +44,7 @@ MongoDB Database
 Advanced DSA (Recursion, Backtracking, Bit Manipulation)<br>
 System Design Basics<br>
 Open Source Contribution (GSoC preparation)
+
+<h3><b>🌐 Connect With Me</b></h3>
+LinkedIn: (Add link)<br>
+Email: (Add email)<br>
