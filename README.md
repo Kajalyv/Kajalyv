@@ -1,50 +1,124 @@
+# Hi there, I'm Kajal Yadav 👋
 
- <h1 align="center">Hi 🌸, I'm Kajal Yadav</h1>
-<h3 align="center">💻 Full Stack Developer | GSoC 2026 Aspirant| 🎯 TCS NQT 2026 Aspirant</h3><hr>
+### 💻 Full Stack Developer | Java Enthusiast | Open Source Learner
 
-📚 DSA in Java | React | Node.js | MongoDB<br>
-🎯 Goal: Contribute to Open Source & Build Scalable Web Apps<br>
+Passionate about building scalable web applications, solving Data Structures & Algorithms problems, and continuously learning modern software development practices.
 
+---
 
-<h3>👩‍💻<b>About Me</b></h3>
+## 🚀 About Me
 
-🌱 Currently improving Data Structures & Algorithms in Java<br>
-🔨 Built an E-commerce Full Stack Application<br>
-💡 Interested in Open Source Contributions<br>
-📈 Working on improving my GitHub profile & real-world projects<br>
+* 🎓 B.Sc. IT Student (2027 Graduate)
+* 💻 Full Stack Developer specializing in the MERN Stack
+* 📚 Actively practicing Data Structures & Algorithms in Java
+* 🌱 Exploring Open Source Contributions and GSoC
+* 🔨 Built and deployed Full Stack Web Applications
+* 🎯 Preparing for Software Development and Internship Opportunities
 
-<h3><b>🛠️ Tech Stack</b></h3>
-💻 Languages<br>
-   Java<br>
-   JavaScript<br>
-   HTML<br>
-   CSS<br>
+---
 
-<br>⚛️ Frontend<br>
-    React.js<br>
-    React Router<br>
-    Context API<br>
+## 🛠️ Tech Stack
 
-🖥️ Backend<br>
-Node.js<br>
-Express.js<br>
+### Programming Languages
 
-🗄️ Database<br>
-MongoDB<br>
+* Java
+* JavaScript
+* HTML5
+* CSS3
 
-<h3><b>🚀 Projects</b></h3>
+### Frontend Development
 
-🛒 E-Commerce Web App <br>
-Full Stack MERN Application<br>
-Authentication & Cart System<br>
-REST APIs using Express<br>
-MongoDB Database
+* React.js
+* React Router
+* Context API
+* Responsive Web Design
 
-<h3><b>📚 Currently Learning</b></h3>
-Advanced DSA (Recursion, Backtracking, Bit Manipulation)<br>
-System Design Basics<br>
-Open Source Contribution (GSoC preparation)
+### Backend Development
 
-<h3><b>🌐 Connect With Me</b></h3>
-LinkedIn: https://www.linkedin.com/in/kajal-yadav-875773288/<br>
-Email: kajalyv6743@gmail.com<br>
+* Node.js
+* Express.js
+* REST APIs
+
+### Database
+
+* MongoDB
+* Mongoose
+
+### Tools & Platforms
+
+* Git
+* GitHub
+* Postman
+* VS Code
+
+---
+
+## 📂 Featured Projects
+
+### 🛒 E-Commerce Web Application
+
+A full-stack MERN application that provides a complete online shopping experience.
+
+#### Features
+
+* User Authentication & Authorization
+* Product Listing & Search
+* Shopping Cart Functionality
+* MongoDB Database Integration
+* RESTful API Development
+* Responsive User Interface
+
+#### Tech Used
+
+React.js • Node.js • Express.js • MongoDB
+
+---
+
+## 📚 DSA Journey
+
+Currently strengthening problem-solving skills through consistent practice in Java.
+
+### Topics Covered
+
+* Arrays
+* Strings
+* Linked Lists
+* Recursion
+
+### Current Goal
+
+🎯 Solve 300+ DSA Problems and master interview-oriented concepts.
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced Data Structures & Algorithms
+* System Design Fundamentals
+* Open Source Contributions
+* Full Stack Development Best Practices
+
+---
+
+## 📈 2026 Goals
+
+* Contribute to Open Source Projects
+* Secure a Software Development Internship
+* Build More Production-Ready Projects
+* Improve Problem Solving & Competitive Programming Skills
+* Strengthen Backend Development Expertise
+
+---
+
+## 🤝 Let's Connect
+
+💼 LinkedIn:
+[www.linkedin.com/in/kajal-yadav-875773288](http://www.linkedin.com/in/kajal-yadav-875773288)
+
+📧 Email:
+[kajalyv6743@gmail.com](mailto:kajalyv6743@gmail.com)
+
+---
+
+### ✨ "Consistency beats intensity. One problem, one commit, one improvement at a time."
+
